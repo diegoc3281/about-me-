@@ -1,6 +1,6 @@
 # about-me
  
-# Diego A. Calixto
+# _Diego A. Calixto_
  
 ## calixodiego@gmail.com
 
